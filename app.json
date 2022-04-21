@@ -1,13 +1,13 @@
 {
-    "name": "Umami",
-    "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+    "name": "Level Up - Stats",
+    "description": "Powered by Umami, a simple, fast, website analytics alternative to Google Analytics.",
     "keywords": [
       "analytics",
       "charts",
       "statistics",
       "web-analytics"
     ],
-    "website": "https://umami.is",
+    "website": "https://stats.levelup.re",
     "repository": "https://github.com/mikecao/umami",
     "addons": [
       "heroku-postgresql"
